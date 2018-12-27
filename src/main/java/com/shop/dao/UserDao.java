@@ -14,9 +14,8 @@ public class UserDao {
     private Connection connection = DatabaseConnection.getDBConnection();
     private Logger logger = LoggerFactory.getLogger(this.getClass());
 
-//    public UserDao() throws SQLException, ClassNotFoundException{
-//
-//    }
+
+
 
     public User getUserByUsername( String username){
         PreparedStatement stmt = null;

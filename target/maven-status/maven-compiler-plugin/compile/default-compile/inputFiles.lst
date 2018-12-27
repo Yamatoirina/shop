@@ -1,8 +1,9 @@
-/home/name/IdeaProjects/shop/src/main/java/com/shop/controller/LoginServlet.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/dao/connection/DatabaseConnection.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/dao/UserDao.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/controller/filter/AdminFilter.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/controller/RegisterServlet.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/model/User.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/service/UserService.java
-/home/name/IdeaProjects/shop/src/main/java/com/shop/controller/filter/AuthenticationFilter.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/controller/LoginServlet.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/model/User.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/controller/ProductServlet.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/service/UserService.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/controller/filter/AdminFilter.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/dao/connection/DatabaseConnection.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/controller/RegisterServlet.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/controller/filter/AuthenticationFilter.java
+/home/hillel/IdeaProjects/shop/src/main/java/com/shop/dao/UserDao.java
